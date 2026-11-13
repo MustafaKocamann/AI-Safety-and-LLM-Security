@@ -8,6 +8,7 @@ dependencies = [
     "ipykernel>=7.4.0",
     "langchain>=1.5.0",
     "langchain-core>=1.8.0",
+    "langchain-google-genai>=4.5.0",
     "langchain-openai>=1.7.4",
     "langgraph>=1.2.21",
     "nbformat>=5.11.1",

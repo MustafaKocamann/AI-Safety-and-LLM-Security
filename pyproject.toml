@@ -9,10 +9,12 @@ dependencies = [
     "langchain>=1.5.0",
     "langchain-core>=1.8.0",
     "langchain-google-genai>=4.5.0",
+    "langchain-huggingface>=1.2.3",
     "langchain-openai>=1.7.4",
     "langgraph>=1.2.21",
     "nbformat>=5.11.1",
     "nemoguardrails>=0.24.1",
     "python-dotenv>=1.2.4",
+    "sentence-transformers>=6.3.0",
     "streamlit>=1.67.0",
 ]
